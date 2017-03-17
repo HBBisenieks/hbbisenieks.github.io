@@ -1,0 +1,64 @@
+/********************\
+      MENU STYLE
+\********************/
+
+.menu {
+	color: #000;
+	text-align: center;
+	font-family: "Courier New", lucida console, monospace;
+	font-weight: bold;
+	font-size: 1.25em;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0px 0px 0px 4px;
+	hr {
+		height: 2px;
+	}
+	ul {
+		list-style: none;
+		margin: 0 auto;
+		padding: 0;
+		border: 2px;
+	}
+	a {
+		text-decoration: none;
+		color: #000;
+		text-align: center;
+		font-family: "Courier New", lucida console, monospace;
+		font-weight: bold;
+		display: block;
+		&:hover {
+			color: #444;
+		}
+		&:visited {
+			color: #000;
+		}
+	}
+	li {
+		float: left;
+		position: relative;
+		width: 25%;
+		ul {
+			display: none;
+			position: absolute;
+			top: 1em;
+			left: 0;
+			background-color: #eeeecc;
+			li {
+				width: 100%;
+			}
+		}
+		&:hover ul {
+			display: block;
+		}
+		&:focus ul {
+			display: block;
+		}
+	}
+	
+	li > ul {
+		top: auto;
+		left: auto;
+	}
+}
+

@@ -1,0 +1,16 @@
+.new-header {
+	color: #000;
+	background-color: #eeeecc;
+	max-width: 700px;
+	margin: 0 auto;
+	.logo {
+		float: left;
+		width: 20%;
+	}
+	.text {
+		float: right;
+		width: 80%;
+		font-size: 3em;
+		vertical-align: bottom;
+	}
+}

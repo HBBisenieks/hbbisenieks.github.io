@@ -1,0 +1,17 @@
+/****************************\
+	FOOTER STUFF
+\****************************/
+
+.footer {
+	padding: .25em;
+	font-size: .75em;
+	text-align: center;
+	color: #000;
+	line-height:2em;
+	hr {
+		border: 0;
+		height: 0.1em;
+		background: #000;
+		background-image: linear-gradient(to right, #eeeecc, #000, #eeeecc);
+	}
+}
