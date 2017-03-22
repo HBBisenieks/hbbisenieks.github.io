@@ -6,10 +6,19 @@
   text-align: center;
   font-family: "Courier New", lucida console, monospace;
   font-weight: bold;
-  font-size: 1.25em;
+  font-size: 1.0em;
   width: 100%;
   margin: 0 auto;
   padding: 0px 0px 0px 4px; }
+  @media all and (max-width: 370px) {
+    .menu {
+      font-size: 1em; } }
+  @media all and (min-width: 400px) {
+    .menu {
+      font-size: 1.1em; } }
+  @media all and (min-width: 500px) {
+    .menu {
+      font-size: 1.25em; } }
   .menu hr {
     height: 2px; }
   .menu ul {
@@ -192,3 +201,17 @@ hr {
     width: 80%;
     font-size: 3em;
     vertical-align: bottom; }
+
+.narrow {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px; }
+  .narrow p {
+    text-indent: 1.5em; }
+  .narrow hr {
+    width: 75%; }
+
+.normal p {
+  text-indent: 1.5em; }
+.normal hr {
+  width: 50%; }

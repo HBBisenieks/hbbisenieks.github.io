@@ -7,10 +7,20 @@
 	text-align: center;
 	font-family: "Courier New", lucida console, monospace;
 	font-weight: bold;
-	font-size: 1.25em;
+	font-size: 1.0em;
+//	font-size: 3.5vmin;
 	width: 100%;
 	margin: 0 auto;
 	padding: 0px 0px 0px 4px;
+	@media all and (max-width: 370px) {
+		font-size: 1em;
+	}
+	@media all and (min-width: 400px) {
+		font-size: 1.1em;
+	}
+	@media all and (min-width: 500px) {
+		font-size: 1.25em;
+	}
 	hr {
 		height: 2px;
 	}
