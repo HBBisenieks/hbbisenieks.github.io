@@ -29,6 +29,7 @@ markdown: kramdown
 #theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

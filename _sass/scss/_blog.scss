@@ -1,0 +1,22 @@
+/************************\
+	BLOG STUFF
+\************************/
+
+.blog-wrapper {
+	padding: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	a {
+		color: #000;
+		text-decoration: none;
+		font-weight: bold;
+	}
+	.blog-left {
+		width: 300px;
+		float: left;
+	}
+	.blog-right {
+		width: 300px;
+		float: right;
+	}
+}

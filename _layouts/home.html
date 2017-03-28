@@ -3,3 +3,11 @@ layout: default
 ---
 
 {{ content }}
+
+<h1>News</h1>
+
+{% for post in paginator.posts %}
+  {% if post.category == "news" %}
+    {{ post }}
+  {% endif %}
+{% endfor %}
