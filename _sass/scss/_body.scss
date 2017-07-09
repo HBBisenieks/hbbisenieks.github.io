@@ -21,6 +21,20 @@ hr {
 	width: 99%;
 	margin: 0 auto;
 	color: #000;
+
+	a {
+		font-weight: bold;
+		text-decoration: none;
+		color: #000;
+	}
+
+	a:hover {
+		text-decoration: underline;
+	}
+
+	a:visited {
+		color: #333;
+	}
 }
 .wrapper {
 	margin: 0 auto;
