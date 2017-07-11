@@ -6,8 +6,8 @@ layout: default
 
 <h1>News</h1>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
   {% if post.category == "news" %}
-    {{ post }}
+    {{ post.date | date: '%Y-%m-%d' }} - {{ post.title }}
   {% endif %}
 {% endfor %}
