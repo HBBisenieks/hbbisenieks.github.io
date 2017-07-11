@@ -7,6 +7,6 @@ layout: default
 <h1>News</h1>
 
 {% for post in site.categories.news limit:5 %}
-  <a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }} {{ post.title }}</a>
+  <a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }} &ndash; {{ post.title }}</a>
   {{ post.excerpt }}
 {% endfor %}
