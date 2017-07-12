@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-	{% if post.category == "blog" %}
+	{% if post.category == "blog" or post.category == "news" %}
 <!--		<h2>{{ post.title }}</h2>
 		<h4>{{ post.date | date: '%B %d, %Y' }}</h4>
 		{{ post.excerpt }}
