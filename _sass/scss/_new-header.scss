@@ -3,6 +3,13 @@
 	background-color: #eeeecc;
 	max-width: 700px;
 	margin: 0 auto;
+	svg {
+		width: 100%;
+		height: auto;
+	}
+	/**\
+	I don't think this stuff is being used anymore
+	\**/
 	.logo {
 		float: left;
 		width: 20%;
