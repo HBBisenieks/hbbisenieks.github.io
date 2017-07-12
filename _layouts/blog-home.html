@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+	{% if post.category == "blog" %}
+	<h3>{{ post.title }}</h3>
+	{% endif %}
+{% endfor %}
