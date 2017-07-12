@@ -1,8 +1,9 @@
 ---
 layout: default
-category: news
+categories: news blog
 title: '"The Air Gap" at LampLight Magazine'
 published: true
+tags: stories publication
 ---
 
 My sysadmin horror story, "The Air Gap," can be found in [Volume 5, Issue 4](http://lamplightmagazine.com/volume-v-issue-iv/) 
