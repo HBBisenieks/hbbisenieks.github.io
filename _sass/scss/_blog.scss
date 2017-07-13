@@ -21,6 +21,7 @@
 	} */
 	hr {
 		width: 50%;
+		height: 0.1em;
 	}
 	.date {
 		font-size: .75em;
@@ -36,6 +37,12 @@
 		}
 		hr {
 			width: 25%;
+			text-align: left;
+			margin-left: 0;
+			background: #000;
+			background-image: linear-gradient(to right, #000, #eeeecc);
+			height: 0.1333em;
+			border: 0;
 		}
 	}
 }
