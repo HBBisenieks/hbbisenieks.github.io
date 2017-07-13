@@ -3,7 +3,7 @@
 \************************/
 
 .blog-wrapper {
-	padding: 25px;
+/*	padding: 25px;
 	margin-left: auto;
 	margin-right: auto;
 	a {
@@ -18,5 +18,12 @@
 	.blog-right {
 		width: 300px;
 		float: right;
+	} */
+	hr {
+		width: 50%;
+	}
+	.date {
+		font-size: .75em;
+		color: #333;
 	}
 }

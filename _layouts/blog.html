@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div class="blog-wrapper">
+  <div class="date">
+    {{ page.date | date: '%B %d, %Y' }}
+  </div>
+  <h2>{{ page.title }}</h2>
+  {{ content }}
+</div>
