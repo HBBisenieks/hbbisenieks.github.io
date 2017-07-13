@@ -26,4 +26,16 @@
 		font-size: .75em;
 		color: #333;
 	}
+	.tags {
+		font-size: .75em;
+		color: #333;
+		a, a:hover, a:visited, a:active {
+			text-decoration: none;
+			color: inherit;
+			font-weight: normal;
+		}
+		hr {
+			width: 25%;
+		}
+	}
 }
