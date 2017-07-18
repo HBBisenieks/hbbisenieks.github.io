@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 title: Cookie Cat and the Future of Steven Universe
 category: blog
 tags: [Steven Universe, music, cookie cat]
