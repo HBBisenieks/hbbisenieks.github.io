@@ -35,6 +35,11 @@ hr {
 	a:visited {
 		color: #000;
 	}
+
+	img {
+		max-width: 100%;
+		max-height: 100%;
+	}
 }
 .wrapper {
 	margin: 0 auto;
