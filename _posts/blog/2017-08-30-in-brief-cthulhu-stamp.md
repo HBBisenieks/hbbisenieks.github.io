@@ -1,8 +1,12 @@
 ---
-title: In Brief - Block Printing
-category: blog
+layout: blog
+title: "In Brief: Block Printing"
 published: true
-tags: "block printing" Cthulhu "In Brief"
+category: blog
+tags: 
+  - block printing
+  - Cthulhu
+  - In Brief
 ---
 
 My day job is in its busy season right now, so posts may be a bit more spotty
