@@ -1,5 +1,5 @@
 ---
-title: "In Brief: Block Printing"
+title: In Brief - Block Printing
 category: blog
 published: true
 tags: "block printing" Cthulhu "In Brief"
