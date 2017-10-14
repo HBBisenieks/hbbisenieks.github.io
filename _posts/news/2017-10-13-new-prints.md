@@ -3,6 +3,7 @@ layout: default
 published: true
 category: news
 title: "New Print in the Shop!"
+tags: news
 ---
 
 As some folks may have guessed from my [semi-recent blog post](http://hilarybisenieks.com/blog/2017/08/30/in-brief-cthulhu-stamp.html), 

@@ -3,6 +3,7 @@ layout: default
 category: news
 published: true
 title: "Updates to HilaryBisenieks.com"
+tags: news
 ---
 
 Maybe you noticed that something is a little... *different* around
