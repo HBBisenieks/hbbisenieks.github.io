@@ -15,6 +15,8 @@ pre-order on the following platforms:
 
 * [Kindle](https://amzn.to/2JbY0Em)
 * [Kobo](https://www.kobo.com/us/en/ebook/skies-of-wonder-skies-of-danger)
+* [iBooks](https://itunes.apple.com/us/book/id1394377656)
+* [Barnes & Noble](https://www.barnesandnoble.com/w/books/1128872364?ean=2940155531777)
 * **Other eBook Retailers** - Coming soon!
 * **Print on Demand** - Coming soon!
 
