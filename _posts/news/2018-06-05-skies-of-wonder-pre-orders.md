@@ -17,7 +17,7 @@ pre-order on the following platforms:
 * [Kobo](https://www.kobo.com/us/en/ebook/skies-of-wonder-skies-of-danger)
 * [iBooks](https://itunes.apple.com/us/book/id1394377656)
 * [Barnes & Noble](https://www.barnesandnoble.com/w/books/1128872364?ean=2940155531777)
-* **Other eBook Retailers** - Coming soon!
+* [Google Play](https://play.google.com/store/books/details/Mary_Alexandra_Agner_Skies_of_Wonder_Skies_of_Dang?id=ge5eDwAAQBAJ)
 * **Print on Demand** - Coming soon!
 
 This page will be updated as the remaining pre-order links become
