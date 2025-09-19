@@ -55,7 +55,7 @@ return to Latvia as unfamiliar landscapes raced past the windows of their train.
 <p>Vienna was a haze, a holdover, for my father had taken ill, and his only memories of the
 city are of seeing Saint Stephen’s Cathedral, as yet unthreatened by retreating German forces
 and of viewing the hills outside the city from some unknown vantage point. After some days,
-they were able to go on.On the train again, my grandmother fell in with an anticommunist fellow named Mr.
+they were able to go on. On the train again, my grandmother fell in with an anticommunist fellow named Mr.
 Bautz, a man who was always drawing guns in the margins of his books. Bautz invited them to
 come with him to what must have been his summer home in Ruhpolding, Germany. It was there
 that my father, who at that time spoke no German, first heard the word <i>ausländer.</i> Nobody had
